@@ -22,7 +22,7 @@ Interested and challenging myself to learning different back and front-end tools
 <hr>
 <h3>Projects in HTML</h3>
 <ul>
-  <li>Canva Portfolio</li>
+  <li><a href="https://sanchez1.my.canva.site/aboutme">Canva Portfolio</a></li>
   <li>Headings in HTML</li>
   <li>
     OL & UL in HTML
