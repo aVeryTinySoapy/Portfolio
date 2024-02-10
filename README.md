@@ -20,12 +20,16 @@ Interested and challenging myself to learning different back and front-end tools
   <li>Encoding</li>
 </ul>
 <hr>
-
 <h3>Projects in HTML</h3>
 <ul>
-  <li>[test](https://www.youtube.com)</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Canva Portfolio</li>
+  <li>Headings in HTML</li>
+  <li>
+    OL & UL in HTML
+    <ol>
+      <li>How to make my favorite dish</li>
+      <li>OL & UL implementation</li>
+    </ol>
+  </li>
+  <li>File Path in HTML</li>
 </ul>
