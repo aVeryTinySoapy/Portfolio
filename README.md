@@ -27,8 +27,8 @@ Interested and challenging myself to learning different back and front-end tools
   <li>
     OL & UL in HTML
     <ol>
-      <li>How to make my favorite dish</li>
-      <li>OL & UL implementation</li>
+      1. How to make my favorite dish <br>
+      2. OL & UL implementation
     </ol>
   </li>
   <li>File Path in HTML</li>
