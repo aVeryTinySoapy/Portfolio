@@ -23,7 +23,7 @@ Interested and challenging myself to learning different back and front-end tools
 <h3>Projects in HTML</h3>
 <ul>
   <li><a href="https://sanchez1.my.canva.site/aboutme">Canva Portfolio</a></li>
-  <li><a href="https://github.com/aVeryTinySoapy/Portfolio/tree/main/HTML%20Basics">Headings in HTML</a></li>
+  <li><a href="https://github.com/aVeryTinySoapy/Portfolio/tree/main/Headings%20in%20HTML">Headings in HTML</a></li>
   <li>
     OL & UL in HTML
     <ol>
