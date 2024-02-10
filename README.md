@@ -31,5 +31,5 @@ Interested and challenging myself to learning different back and front-end tools
       2. <a href="https://github.com/aVeryTinySoapy/Portfolio/blob/main/OL%20%26%20UL%20in%20HTML/OL%20%26%20UL%20implementation.html">OL & UL implementation</a>
     </ol>
   </li>
-  <li>File Path in HTML</li>
+  <li><a href="https://github.com/aVeryTinySoapy/Portfolio/tree/main/File%20Paths">File Path in HTML</a></li>
 </ul>
